@@ -1,13 +1,18 @@
 analytics: {}
 color:
-  brandColors: []
+  brandColors:
+    - '#000000'
+    - '#701010'
+    - '#000000'
+    - '#D82828'
+    - '#D84848'
   brandStrength: 0.06509373133632179
   lightness: 0.339411475662059
   rhythmicContrast: 0.6429704859202116
   saturation: 0.21131188550834545
 cta: {}
-layout_spectrum: 0.04476002326650308
+layout_spectrum: 1
 name: nicolaj
 opengraph: {}
 purpose: {}
-typography_spectrum: 0.4378972580068805
+typography_spectrum: 1
