@@ -1,13 +1,26 @@
-analytics: {}
+name: nicolaj
+favicon: null
+layout_spectrum: 0.04476002326650308
+typography_spectrum: 0.4378972580068805
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors: []
-  brandStrength: 0.06509373133632179
+  brandStrength: 1
   lightness: 0.339411475662059
-  rhythmicContrast: 0.6429704859202116
   saturation: 0.21131188550834545
-cta: {}
-layout_spectrum: 0.04476002326650308
-name: nicolaj
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.4378972580068805
+  rhythmicContrast: 0.6429704859202116
+purpose:
+  - name: null
+    item: null
+    url: null
