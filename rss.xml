@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[nicolaj]]></title>
-        <description><![CDATA[nicolaj]]></description>
+        <title><![CDATA[Artificial Intelligence Ventures - Venture.ai]]></title>
+        <description><![CDATA[Artificial Intelligence Ventures - Venture.ai]]></description>
         <link>https://thegrid.ai/nicolaj/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 Nov 2015 06:40:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Nov 2015 06:45:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nicolaj/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[The biggest risk is not moving anywhere]]></title>
-            <description><![CDATA[<article><h1>The biggest risk is not moving anywhere</h1><p>Where We Are Currently—A World Running on ANI</p></article>]]></description>
+            <title><![CDATA[Where We Are Currently—A World Running on ANI]]></title>
+            <description><![CDATA[<h1>Where We Are Currently—A World Running on ANI</h1>]]></description>
             <link>https://thegrid.ai/nicolaj/f03e4c04-f00e-4f53-8d5c-f98c29dffbe4/index.html</link>
             <guid isPermaLink="false">f03e4c04-f00e-4f53-8d5c-f98c29dffbe4</guid>
-            <pubDate>Sat, 07 Nov 2015 06:40:40 GMT</pubDate>
+            <pubDate>Sat, 07 Nov 2015 06:45:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
