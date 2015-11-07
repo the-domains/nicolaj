@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[nicolaj]]></title>
         <description><![CDATA[nicolaj]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nicolaj/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 Nov 2015 06:30:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 07 Nov 2015 06:40:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nicolaj/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>This is a intro</p>]]></description>
-            <link>undefinedf03e4c04-f00e-4f53-8d5c-f98c29dffbe4/index.html</link>
+            <title><![CDATA[The biggest risk is not moving anywhere]]></title>
+            <description><![CDATA[<article><h1>The biggest risk is not moving anywhere</h1><p>Where We Are Currently—A World Running on ANI</p></article>]]></description>
+            <link>https://thegrid.ai/nicolaj/f03e4c04-f00e-4f53-8d5c-f98c29dffbe4/index.html</link>
             <guid isPermaLink="false">f03e4c04-f00e-4f53-8d5c-f98c29dffbe4</guid>
-            <pubDate>Sat, 07 Nov 2015 06:30:28 GMT</pubDate>
+            <pubDate>Sat, 07 Nov 2015 06:40:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
